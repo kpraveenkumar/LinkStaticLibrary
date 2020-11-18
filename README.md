@@ -1,0 +1,1 @@
+# LinkStaticLibrary
